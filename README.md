@@ -3,7 +3,9 @@
 Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheepuram, India, currently, I'm a looking for career opportunities within Software Development area. 
 
 ### Connect with me:
-
+<div align="center">
+    <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
+</div>
 [<img align="left" alt="github profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="InGmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
@@ -41,7 +43,6 @@ Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheep
 <code><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 <code><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 
-<br />
 <br />
 
 ---
