@@ -9,7 +9,7 @@ Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheep
 [<img align="left" alt="InGmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <div>
-<img align="right" src="https://github.com/Yggdrasil09/Yggdrasil09/blob/master/giphy.webp" alt="Connect" width="300" height="300" />
+<img align="right" src="https://github.com/Yggdrasil09/Yggdrasil09/blob/master/giphy.gif" alt="Connect" width="300" height="300" />
 </div>
 
 <br/>
@@ -17,7 +17,7 @@ Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheep
 ---
 
 ## Personal Stuff!
-- 👨🏽‍💻 Working as an Intern at Triniti.
+- 👨🏽‍💻 Currently, open for job opportunities.
 - 🌱 I’m currently learning about System Design Principles.🤣
 - 👨🏽‍💻 I enjoy participating in competitve programming contests.
 - 🥅 2020 Goals: Contribute more to Open Source projects and find a job.
