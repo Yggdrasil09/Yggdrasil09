@@ -1,6 +1,6 @@
 ### Hi there, I'm Karthik - aka [Yggdrasil09][website] 👋
 
-Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheepuram, India, currently, I'm a looking for career opportunities within Software Development area. 
+Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheepuram, India, currently, I'm looking for career opportunities within the Software Development area. 
 
 ### Connect with me:
 
@@ -18,7 +18,7 @@ Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheep
 
 ## Personal Stuff!
 - 👨🏽‍💻 Currently, open for job opportunities.
-- 🌱 I’m currently learning about System Design Principles.🤣
+- 🌱 Learning about System Design Principles.🤣
 - 👨🏽‍💻 I enjoy participating in competitve programming contests.
 - 🥅 2020 Goals: Contribute more to Open Source projects and find a job.
 - 📧 Mail : karthik99th.tnk@gmail.com
