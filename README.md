@@ -30,21 +30,21 @@ Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheep
 
 ### Languages and Tools:
 
-<img height="36px" alt="Javascript" src="icons/javascript.png" />
-<img height="36px" alt="React" src="icons/react.png" />
-<img height="36px" alt="Node.js" src="icons/node.png" />
-<img height="36px" alt="Python" src="icons/python.png" />
-<img height="36px" alt="Golang" src="icons/golang.png" />
-<img height="36px" alt="C" src="icons/c.png">
-<img height="36px" alt="Cpp" src="icons/c++.png">
-<img height="36px" alt="MySQL" src="icons/mysql.png">
-<img height="36px" alt="MongoDB" src="icons/mongodb.png" />
-<img height="36px" alt="Git" src="icons/git.png" />
-<img height="36px" alt="GitHub" src="icons/github.png" />
-<img height="36px" alt="IDE" src="icons/vscode.png" />
-<img height="36px" alt="Editor" src="icons/vim.png" />
-<img height="36px" alt="Docker" src="icons/docker.png" />
-<img height="36px" alt="Linux" src="icons/linux.png" />
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="Javascript" ><img height="36px" alt="Javascript" src="icons/javascript.png" /></a>
+<a href="https://reactjs.org/" title="React" ><img height="36px" alt="React" src="icons/react.png" /></a>
+<a href="https://nodejs.org/en/" title="Node.js" ><img height="36px" alt="Node.js" src="icons/node.png" /></a>
+<a href="https://www.python.org/" title="Python" ><img height="36px" alt="Python" src="icons/python.png" /></a>
+<a href="https://golang.org/" title="Golang" ><img height="36px" alt="Golang" src="icons/golang.png" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" ><img height="36px" alt="C" src="icons/c.png"></a>
+<a href="https://isocpp.org/" title="C++" ><img height="36px" alt="Cpp" src="icons/c++.png"></a>
+<a href="https://www.mysql.com/" title="MySQL" ><img height="36px" alt="MySQL" src="icons/mysql.png"></a>
+<a href="https://www.mongodb.com/" title="MongoDB" ><img height="36px" alt="MongoDB" src="icons/mongodb.png" /></a>
+<a href="https://git-scm.com/" title="Git" ><img height="36px" alt="Git" src="icons/git.png" /></a>
+<a href="https://github.com/" title="Github" ><img height="36px" alt="GitHub" src="icons/github.png" /></a>
+<a href="https://code.visualstudio.com/" title="Vscode" ><img height="36px" alt="IDE" src="icons/vscode.png" /></a>
+<a href="https://www.vim.org/" title="Vim" ><img height="36px" alt="Editor" src="icons/vim.png" /></a>
+<a href="https://www.docker.com/" title="Docker" ><img height="36px" alt="Docker" src="icons/docker.png" /></a>
+<a href="https://www.linux.org/" title="Linux" ><img height="36px" alt="Linux" src="icons/linux.png" /></a>
 <br />
 
 ---
