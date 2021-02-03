@@ -4,9 +4,9 @@ Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheep
 
 ### Connect with me:
 
-[<img align="left" alt="github profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="InGmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="github profile" width="36px" src="icons/web.png" />][website]
+[<img align="left" alt="LinkedIn" width="38px" src="icons/linkedin.png" />][linkedin]
+[<img align="left" alt="InGmail" width="38px" src="icons/gmail.png" />][gmail]
 
 <div>
 <img align="right" src="https://github.com/Yggdrasil09/Yggdrasil09/blob/master/giphy.gif" alt="Connect" width="300" height="300" />
@@ -30,21 +30,21 @@ Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheep
 
 ### Languages and Tools:
 
-<code><img height="27" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img height="27" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img height="27" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img height="27" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img height="27" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
-<code><img height="27" alt="C" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="27" alt="Cpp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="27" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="27" alt="Golang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="27" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
-<code><img height="27" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code>
-<code><img height="27" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-<code><img height="27" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
-<code><img height="27" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
-
+<img height="36px" alt="Javascript" src="icons/javascript.png" />
+<img height="36px" alt="React" src="icons/react.png" />
+<img height="36px" alt="Node.js" src="icons/node.png" />
+<img height="36px" alt="Python" src="icons/python.png" />
+<img height="36px" alt="Golang" src="icons/golang.png" />
+<img height="36px" alt="C" src="icons/c.png">
+<img height="36px" alt="Cpp" src="icons/c++.png">
+<img height="36px" alt="MySQL" src="icons/mysql.png">
+<img height="36px" alt="MongoDB" src="icons/mongodb.png" />
+<img height="36px" alt="Git" src="icons/git.png" />
+<img height="36px" alt="GitHub" src="icons/github.png" />
+<img height="36px" alt="IDE" src="icons/vscode.png" />
+<img height="36px" alt="Editor" src="icons/vim.png" />
+<img height="36px" alt="Docker" src="icons/docker.png" />
+<img height="36px" alt="Linux" src="icons/linux.png" />
 <br />
 
 ---
