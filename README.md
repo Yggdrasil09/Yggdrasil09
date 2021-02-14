@@ -17,10 +17,10 @@ Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheep
 ---
 
 ## Personal Stuff!
-- 👨🏽‍💻 Currently, open for job opportunities.
+- Currently, open for job opportunities.
 - 🌱 Learning about System Design Principles.🤣
-- 👨🏽‍💻 I enjoy participating in competitve programming contests.
-- 🥅 2020 Goals: Contribute more to Open Source projects and find a job.
+- I enjoy participating in competitve programming contests.
+- 2021 Goals: Contribute more to Open Source projects and find a job.
 - 📧 Mail : karthik99th.tnk@gmail.com
 - 📄 [Resume][website]
 
@@ -34,6 +34,7 @@ Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheep
 <a href="https://reactjs.org/" title="React" ><img height="36px" alt="React" src="icons/react.png" /></a>
 <a href="https://nodejs.org/en/" title="Node.js" ><img height="36px" alt="Node.js" src="icons/node.png" /></a>
 <a href="https://www.python.org/" title="Python" ><img height="36px" alt="Python" src="icons/python.png" /></a>
+<a href="https://www.oracle.com/in/java/" title="Java" ><img height="42px" alt="Java" src="icons/java.png" /></a>
 <a href="https://golang.org/" title="Golang" ><img height="36px" alt="Golang" src="icons/golang.png" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" ><img height="36px" alt="C" src="icons/c.png"></a>
 <a href="https://isocpp.org/" title="C++" ><img height="36px" alt="Cpp" src="icons/c++.png"></a>
