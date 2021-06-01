@@ -22,7 +22,7 @@ Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheep
 - I enjoy participating in competitve programming contests.
 - 2021 Goals: Contribute more to Open Source projects and find a job.
 - 📧 Mail : karthik99th.tnk@gmail.com
-- 📄 [Resume][website]
+- 📄 [Portfolio][website]
 
 <br />
 
@@ -31,6 +31,8 @@ Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheep
 ### Languages and Tools:
 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="Javascript" ><img height="36px" alt="Javascript" src="icons/javascript.png" /></a>
+<a href="https://www.typescriptlang.org/" title="Typescript" ><img height="36px" alt="Typescript" src="icons/typescript.png" /></a>
+<a href="https://sass-lang.com/" title="Sass" ><img height="36px" alt="Sass" src="icons/sass.png" /></a>
 <a href="https://reactjs.org/" title="React" ><img height="36px" alt="React" src="icons/react.png" /></a>
 <a href="https://nodejs.org/en/" title="Node.js" ><img height="36px" alt="Node.js" src="icons/node.png" /></a>
 <a href="https://www.python.org/" title="Python" ><img height="36px" alt="Python" src="icons/python.png" /></a>
@@ -51,7 +53,7 @@ Hi, I'm Karthik Chowdary Paladugu, an Undergraduate Student from IIITDM Kancheep
 ---
 
 <div>
-<img align="left" alt="Karthik Chowdary's Github stacks" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yggdrasil09&show_icons=true&hide_border=true" />
+<img align="left" alt="Karthik Chowdary's Github stats" src="https://github-readme-stats.vercel.app/api?username=Yggdrasil09&show_icons=true&hide_border=true" />
 </div>
 
 <br />
